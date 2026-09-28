@@ -1,5 +1,5 @@
 {
-  "latest_version": 3,
+  "latest_version": 4,
   "update_url": "https://github.com/advik08k/ZBuilder-Plugins/releases/download/v1.0/update.apk",
-  "update_message": "Fixed Approx size in plugin UI, and bundled Kotlin standard library to finally fix the compilation error! (version 2.1)"
+  "update_message": "Final version! React Native plugin, all tools in hold menu, Copy/Cut/Paste file operations, cleaner icons and full English UI. (version 2.2)"
 }
